@@ -24,8 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Wenrui Huang"
   pronouns         : # example: "she/her"  
- # bio              : "Short biography for the left-hand sidebar"
- # location         : "Earth"
+  bio              : "Short biography for the left-hand sidebar"
+  location         : "Earth"
   employer         : "Brown University"
   uri              : # URL
   email            : "wenrui_huang@brown.edu" 

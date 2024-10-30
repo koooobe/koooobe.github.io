@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Education
 ======
 * Ph.D candidate in Mathematics, Brown University, 2022-
 * B.S. in Mathematics, University of Science and Technology of China, 2018-2022
